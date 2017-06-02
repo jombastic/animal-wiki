@@ -1,0 +1,7 @@
+#snakes, #tigers, #turtles {
+  display: none;
+}
+
+ul li:hover {
+  cursor: pointer;
+}
